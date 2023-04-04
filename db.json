@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Bell Pepper",
+      "category": "Vegetables",
+      "price": 15.99,
+      "img": "./assets/bell-pepper.jpg",
+      "description": "A fruit is the mature ovary of a plant. So a tomato is botanically a fruit but is commonly considered a vegetable. According to this definition squash, pepper and eggplants are also fruits. Then there are seeds such as peas which are also considered vegetables.",
+      "quantity": 4,
+      "status": true
+    },
+
+    {
+      "id": 2,
+      "title": "strawberry",
+      "category": "Fruits",
+      "price": 13.99,
+      "img": "./assets/strawbery.jpg",
+      "description": "A vegetable is the edible portion of a plant. Vegetables are usually grouped according to the portion of the plant that is eaten such as leaves (lettuce), stem (celery), roots (carrot), tubers (potato), bulbs (onion) and flowers (broccoli).",
+      "quantity": 10,
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "Tomatoe",
+      "category": "Vegetables",
+      "price": 6.99,
+      "img": "./assets/tomato.jpg",
+      "description": "Vegetable, the edible product of a herbaceous plant-that is, a plant with a soft stem, as distinguished from the edible nuts and fruits produced by plants with woody stems such as shrubs and trees.",
+      "quantity": 6,
+      "status": true
+    },
+    {
+      "id": 4,
+      "title": "Strawberry Juice",
+      "category": "Juice",
+      "price": 20.99,
+      "img": "./assets/strawberry-juice.jpg",
+      "description": "So a tomato is botanically a fruit but is commonly considered a vegetable. According to this definition squash, pepper and eggplants are also fruits. Then there are seeds such as peas which are also considered vegetables.",
+      "quantity": 0,
+      "status":false
+    },
+    {
+      "id": 5,
+      "title": "Brocolli",
+      "category": "Vegetables",
+      "price": 22.99,
+      "img": "./assets/brocolli.jpg",
+      "description": "Fruit, mature ovary in flowering plants, together with all inseparably connected parts of the flower. In strict botanical usage, the meaning may be restricted to the ovary alone.",
+      "quantity": 20,
+      "status":true
+    },
+    {
+      "id": 6,
+      "title": "Apple",
+      "category": "Fruits",
+      "price": 18.99,
+      "img": "./assets/imgs/apple.jpeg",
+      "description": "Commonly the term fruit is often restricted to succulent, edible fruits of woody plants, to melons, and to such small fruits as strawberries and blueberries.",
+      "quantity": 9,
+      "status": true
+    },
+    {
+      "id": 7,
+      "title": "Almonds",
+      "category": "Dried",
+      "price": 8.99,
+      "img": "./assets/almonds.jpg",
+      "description": "Ovules within fertilized ovaries develop to produce seeds. In unfertilized varieties, seeds fail to develop, and the ovules remain their original size.",
+      "quantity": 0,
+      "status": false
+    },
+    {
+      "id": 8,
+      "title": "Carrots",
+      "category": "Vegetables",
+      "price": 12.99,
+      "img": "./assets/carrot.jpg",
+      "description": "In either case, the maturation of the ovary results in the withering of stigmas and anthers and enlargement of the ovary or ovaries.",
+      "quantity": 10,
+      "status":true
+    },
+    {
+      "id": 9,
+      "title": "Orange Juice",
+      "category": "Juice",
+      "price": 16.99,
+      "img": "./assets/orange-juice.jpg",
+      "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
+      "quantity":8,
+      "status":true
+    },
+    {
+      "id": 10,
+      "title": "Cashews",
+      "category": "Dried",
+      "price": 39.99,
+      "img": "./assets/cashews.jpg",
+      "description": "The lower leaves of the tomato plant usually turn yellow and fall off as the plant grows up.",
+      "quantity": 3,
+      "status":true
+    },
+    {
+        "id": 11,
+        "title": "Apple Juice",
+        "category": "Juice",
+        "price": 11.49,
+        "img": "./assets/apple-juice.jpg",
+        "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
+        "quantity":8,
+        "status":true
+      }
+  ]
+}
