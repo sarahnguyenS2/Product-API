@@ -5,7 +5,7 @@
       "title": "Bell Pepper",
       "category": "Vegetables",
       "price": 15.99,
-      "img": "./assets/bell-pepper.jpg",
+      "img": "https://cdn.britannica.com/12/147312-050-BEC6A59E/Bell-peppers.jpg",
       "description": "A fruit is the mature ovary of a plant. So a tomato is botanically a fruit but is commonly considered a vegetable. According to this definition squash, pepper and eggplants are also fruits. Then there are seeds such as peas which are also considered vegetables.",
       "quantity": 4,
       "status": true
@@ -13,20 +13,20 @@
 
     {
       "id": 2,
-      "title": "strawberry",
+      "title": "Strawberry",
       "category": "Fruits",
       "price": 13.99,
-      "img": "./assets/strawbery.jpg",
+      "img": "https://vcdn-vnexpress.vnecdn.net/2017/04/27/strawberry-2129-1493287309.jpg",
       "description": "A vegetable is the edible portion of a plant. Vegetables are usually grouped according to the portion of the plant that is eaten such as leaves (lettuce), stem (celery), roots (carrot), tubers (potato), bulbs (onion) and flowers (broccoli).",
       "quantity": 10,
       "status": true
     },
     {
       "id": 3,
-      "title": "Tomatoe",
+      "title": "Tomatos",
       "category": "Vegetables",
       "price": 6.99,
-      "img": "./assets/tomato.jpg",
+      "img": "https://jugais.com/wp-content/uploads/2020/07/tomate-1.jpg",
       "description": "Vegetable, the edible product of a herbaceous plant-that is, a plant with a soft stem, as distinguished from the edible nuts and fruits produced by plants with woody stems such as shrubs and trees.",
       "quantity": 6,
       "status": true
@@ -36,7 +36,7 @@
       "title": "Strawberry Juice",
       "category": "Juice",
       "price": 20.99,
-      "img": "./assets/strawberry-juice.jpg",
+      "img": "https://vinut.com.vn/wp-content/uploads/2019/12/Natural_Strawberry_Juice_-_Fruit_Juice_Supplier_250ml.jpg",
       "description": "So a tomato is botanically a fruit but is commonly considered a vegetable. According to this definition squash, pepper and eggplants are also fruits. Then there are seeds such as peas which are also considered vegetables.",
       "quantity": 0,
       "status": false
@@ -46,7 +46,7 @@
       "title": "Brocolli",
       "category": "Vegetables",
       "price": 22.99,
-      "img": "./assets/brocolli.jpg",
+      "img": "https://vimafoods.com/wp-content/uploads/2020/05/brocoli.jpg",
       "description": "Fruit, mature ovary in flowering plants, together with all inseparably connected parts of the flower. In strict botanical usage, the meaning may be restricted to the ovary alone.",
       "quantity": 20,
       "status": true
@@ -56,7 +56,7 @@
       "title": "Apple",
       "category": "Fruits",
       "price": 18.99,
-      "img": "./assets/imgs/apple.jpeg",
+      "img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/11525/conversions/0a5ae820-7051-4495-bcca-61bf02897472-thumb.jpg",
       "description": "Commonly the term fruit is often restricted to succulent, edible fruits of woody plants, to melons, and to such small fruits as strawberries and blueberries.",
       "quantity": 9,
       "status": true
@@ -66,7 +66,7 @@
       "title": "Almonds",
       "category": "Dried",
       "price": 8.99,
-      "img": "./assets/almonds.jpg",
+      "img": "https://sc04.alicdn.com/kf/ULB8WKiyLMQydeJk43PUq6AyQpXaV.jpg",
       "description": "Ovules within fertilized ovaries develop to produce seeds. In unfertilized varieties, seeds fail to develop, and the ovules remain their original size.",
       "quantity": 0,
       "status": false
@@ -76,7 +76,7 @@
       "title": "Carrots",
       "category": "Vegetables",
       "price": 12.99,
-      "img": "./assets/carrot.jpg",
+      "img": "https://file.hstatic.net/200000073341/file/carrot_ca9982a9d09d4604999fa03eb6e3a941_grande.jpg",
       "description": "In either case, the maturation of the ovary results in the withering of stigmas and anthers and enlargement of the ovary or ovaries.",
       "quantity": 10,
       "status": true
@@ -86,7 +86,7 @@
       "title": "Orange Juice",
       "category": "Juice",
       "price": 16.99,
-      "img": "./assets/orange-juice.jpg",
+      "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61wN7NF7KcS._SL1500_.jpg",
       "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
       "quantity": 8,
       "status": true
@@ -96,7 +96,7 @@
       "title": "Cashews",
       "category": "Dried",
       "price": 39.99,
-      "img": "./assets/cashews.jpg",
+      "img": "https://danifoodsvn.com/wp-content/uploads/2019/10/cashew.jpg",
       "description": "The lower leaves of the tomato plant usually turn yellow and fall off as the plant grows up.",
       "quantity": 3,
       "status": true
@@ -106,7 +106,7 @@
       "title": "Apple Juice",
       "category": "Juice",
       "price": 11.49,
-      "img": "./assets/apple-juice.jpg",
+      "img": "https://nawon.com.vn/wp-content/uploads/2019/04/15.2-fl-oz-NAWON-Bottle-Green-Apple-Juice.jpg",
       "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
       "quantity": 8,
       "status": true
@@ -116,7 +116,7 @@
       "title": "Grape",
       "category": "Fruits",
       "price": 9.49,
-      "img": "./assets/grape.jpg",
+      "img": "https://img.imageboss.me/fourwinds/width/425/dpr:2/s/files/1/2336/3219/products/blackmonukka.jpg?v=1538780984",
       "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
       "quantity": 8,
       "status": true
@@ -126,7 +126,7 @@
       "title": "Corn",
       "category": "Vegetables",
       "price": 11.49,
-      "img": "./assets/corn.jpg",
+      "img": "https://img.rasset.ie/00066de2-500.jpg",
       "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
       "quantity": 8,
       "status": true
@@ -136,7 +136,7 @@
       "title": "Watermelon",
       "category": "Fruits",
       "price": 11.49,
-      "img": "./assets/watermelon.jpg",
+      "img": "https://roots.vn/wp-content/uploads/2022/09/FRU00121-5.jpg",
       "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
       "quantity": 8,
       "status": true
@@ -146,7 +146,7 @@
       "title": "Lime",
       "category": "Vegetables",
       "price": 11.49,
-      "img": "./assets/lime.jpg",
+      "img": "https://belvoir-university-health.s3.amazonaws.com/media/2020/06/08160241/benefits-of-lime.jpg",
       "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
       "quantity": 8,
       "status": true
@@ -156,7 +156,7 @@
       "title": "Peach Juice",
       "category": "Juice",
       "price": 11.49,
-      "img": "./assets/peach-juice.jpg",
+      "img": "https://nawon.com.vn/wp-content/uploads/2020/11/Peach-Juice-Drink-is-a-healthy-natural-product-500ml-can-Brand-Nawon.jpg",
       "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
       "quantity": 8,
       "status": true
