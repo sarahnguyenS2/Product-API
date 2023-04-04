@@ -39,7 +39,7 @@
       "img": "./assets/strawberry-juice.jpg",
       "description": "So a tomato is botanically a fruit but is commonly considered a vegetable. According to this definition squash, pepper and eggplants are also fruits. Then there are seeds such as peas which are also considered vegetables.",
       "quantity": 0,
-      "status":false
+      "status": false
     },
     {
       "id": 5,
@@ -49,7 +49,7 @@
       "img": "./assets/brocolli.jpg",
       "description": "Fruit, mature ovary in flowering plants, together with all inseparably connected parts of the flower. In strict botanical usage, the meaning may be restricted to the ovary alone.",
       "quantity": 20,
-      "status":true
+      "status": true
     },
     {
       "id": 6,
@@ -79,7 +79,7 @@
       "img": "./assets/carrot.jpg",
       "description": "In either case, the maturation of the ovary results in the withering of stigmas and anthers and enlargement of the ovary or ovaries.",
       "quantity": 10,
-      "status":true
+      "status": true
     },
     {
       "id": 9,
@@ -88,8 +88,8 @@
       "price": 16.99,
       "img": "./assets/orange-juice.jpg",
       "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
-      "quantity":8,
-      "status":true
+      "quantity": 8,
+      "status": true
     },
     {
       "id": 10,
@@ -99,17 +99,67 @@
       "img": "./assets/cashews.jpg",
       "description": "The lower leaves of the tomato plant usually turn yellow and fall off as the plant grows up.",
       "quantity": 3,
-      "status":true
+      "status": true
     },
     {
-        "id": 11,
-        "title": "Apple Juice",
-        "category": "Juice",
-        "price": 11.49,
-        "img": "./assets/apple-juice.jpg",
-        "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
-        "quantity":8,
-        "status":true
-      }
+      "id": 11,
+      "title": "Apple Juice",
+      "category": "Juice",
+      "price": 11.49,
+      "img": "./assets/apple-juice.jpg",
+      "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
+      "quantity": 8,
+      "status": true
+    },
+    {
+      "id": 12,
+      "title": "Grape",
+      "category": "Fruits",
+      "price": 9.49,
+      "img": "./assets/grape.jpg",
+      "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
+      "quantity": 8,
+      "status": true
+    },
+    {
+      "id": 13,
+      "title": "Corn",
+      "category": "Vegetables",
+      "price": 11.49,
+      "img": "./assets/corn.jpg",
+      "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
+      "quantity": 8,
+      "status": true
+    },
+    {
+      "id": 14,
+      "title": "Watermelon",
+      "category": "Fruits",
+      "price": 11.49,
+      "img": "./assets/watermelon.jpg",
+      "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
+      "quantity": 8,
+      "status": true
+    },
+    {
+      "id": 15,
+      "title": "Lime",
+      "category": "Vegetables",
+      "price": 11.49,
+      "img": "./assets/lime.jpg",
+      "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
+      "quantity": 8,
+      "status": true
+    },
+    {
+      "id": 16,
+      "title": "Peach Juice",
+      "category": "Juice",
+      "price": 11.49,
+      "img": "./assets/peach-juice.jpg",
+      "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
+      "quantity": 8,
+      "status": true
+    }
   ]
 }
