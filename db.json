@@ -5,7 +5,7 @@
       "title": "Bell Pepper",
       "category": "Vegetables",
       "price": 15.99,
-      "img": "https://cdn.britannica.com/12/147312-050-BEC6A59E/Bell-peppers.jpg",
+      "img": "https://www.chilipeppermadness.com/wp-content/uploads/2019/08/Bell-Peppers.jpg",
       "description": "A fruit is the mature ovary of a plant. So a tomato is botanically a fruit but is commonly considered a vegetable. According to this definition squash, pepper and eggplants are also fruits. Then there are seeds such as peas which are also considered vegetables.",
       "quantity": 4,
       "status": true
@@ -16,7 +16,7 @@
       "title": "Strawberry",
       "category": "Fruits",
       "price": 13.99,
-      "img": "https://vcdn-vnexpress.vnecdn.net/2017/04/27/strawberry-2129-1493287309.jpg",
+      "img": "https://themes.getmotopress.com/frutta-verde/wp-content/uploads/sites/35/2020/05/strawberries.jpg",
       "description": "A vegetable is the edible portion of a plant. Vegetables are usually grouped according to the portion of the plant that is eaten such as leaves (lettuce), stem (celery), roots (carrot), tubers (potato), bulbs (onion) and flowers (broccoli).",
       "quantity": 10,
       "status": true
@@ -26,7 +26,7 @@
       "title": "Tomatos",
       "category": "Vegetables",
       "price": 6.99,
-      "img": "https://jugais.com/wp-content/uploads/2020/07/tomate-1.jpg",
+      "img": "https://admin.tajataji.com/upload/images/6467-2021-03-04.jpg",
       "description": "Vegetable, the edible product of a herbaceous plant-that is, a plant with a soft stem, as distinguished from the edible nuts and fruits produced by plants with woody stems such as shrubs and trees.",
       "quantity": 6,
       "status": true
@@ -36,7 +36,7 @@
       "title": "Strawberry Juice",
       "category": "Juice",
       "price": 20.99,
-      "img": "https://vinut.com.vn/wp-content/uploads/2019/12/Natural_Strawberry_Juice_-_Fruit_Juice_Supplier_250ml.jpg",
+      "img": "https://nawon.com.vn/wp-content/uploads/2020/11/Strawberry-Juice-Drink-is-a-healthy-natural-product-500ml-Bottle-Brand-Nawon.1.jpg",
       "description": "So a tomato is botanically a fruit but is commonly considered a vegetable. According to this definition squash, pepper and eggplants are also fruits. Then there are seeds such as peas which are also considered vegetables.",
       "quantity": 0,
       "status": false
@@ -46,7 +46,7 @@
       "title": "Brocolli",
       "category": "Vegetables",
       "price": 22.99,
-      "img": "https://vimafoods.com/wp-content/uploads/2020/05/brocoli.jpg",
+      "img": "http://bizweb.dktcdn.net/thumb/grande/100/408/264/products/5117041sup-lo-xanh-broccoli-000000002363-jpeg.jpg?v=1603792339863",
       "description": "Fruit, mature ovary in flowering plants, together with all inseparably connected parts of the flower. In strict botanical usage, the meaning may be restricted to the ovary alone.",
       "quantity": 20,
       "status": true
@@ -56,7 +56,7 @@
       "title": "Apple",
       "category": "Fruits",
       "price": 18.99,
-      "img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/11525/conversions/0a5ae820-7051-4495-bcca-61bf02897472-thumb.jpg",
+      "img": "https://5.imimg.com/data5/AK/RA/MY-68428614/apple-1000x1000.jpg",
       "description": "Commonly the term fruit is often restricted to succulent, edible fruits of woody plants, to melons, and to such small fruits as strawberries and blueberries.",
       "quantity": 9,
       "status": true
@@ -66,7 +66,7 @@
       "title": "Almonds",
       "category": "Dried",
       "price": 8.99,
-      "img": "https://sc04.alicdn.com/kf/ULB8WKiyLMQydeJk43PUq6AyQpXaV.jpg",
+      "img": "https://nuts.com/images/rackcdn/ed910ae2d60f0d25bcb8-80550f96b5feb12604f4f720bfefb46d.ssl.cf1.rackcdn.com/3004awAlmonds-GXvAOAkQ-zoom.jpg",
       "description": "Ovules within fertilized ovaries develop to produce seeds. In unfertilized varieties, seeds fail to develop, and the ovules remain their original size.",
       "quantity": 0,
       "status": false
@@ -76,7 +76,7 @@
       "title": "Carrots",
       "category": "Vegetables",
       "price": 12.99,
-      "img": "https://file.hstatic.net/200000073341/file/carrot_ca9982a9d09d4604999fa03eb6e3a941_grande.jpg",
+      "img": "https://product.hstatic.net/200000352097/product/cacc80-rocc82cc81t-8919_b252a294b39b4f17a1e092f090d6a3cf_1024x1024.jpg",
       "description": "In either case, the maturation of the ovary results in the withering of stigmas and anthers and enlargement of the ovary or ovaries.",
       "quantity": 10,
       "status": true
@@ -126,7 +126,7 @@
       "title": "Corn",
       "category": "Vegetables",
       "price": 11.49,
-      "img": "https://img.rasset.ie/00066de2-500.jpg",
+      "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/383/866/products/sweet-corn.jpg?v=1600343096457",
       "description": "During the heat of the day or after melons have been picked for some time, they all sound ripe. Fruits have a 'ground spot' where they rest on the ground; this spot turns slightly yellow as the fruit matures. Watermelons tend to become rough as they mature.",
       "quantity": 8,
       "status": true
